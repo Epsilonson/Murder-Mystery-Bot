@@ -1,7 +1,6 @@
 /**
  *    Murder Mystery Bot
  *        V1.4.0b
- *      By FireMario211
  */
 
 // debugging stuff
@@ -32,6 +31,7 @@
  * 6 - Jailor
  * 7 - Zombie
  */
+ 
 const {
   Client,
   RichEmbed,

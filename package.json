@@ -5,16 +5,15 @@
   "main": "bot.js",
   "contributors": [
     {
-      "name": "FireMario211",
-      "web": "https://github.com/FireMario211"
+      "name": "Epsilonson",
+      "web": "https://github.com/"
     },
     {
-      "name": "ohlookitsAugust",
-      "web": "https://github.com/ohlookitsAugust"
+      "name": "See Source File for Original Devs",
     }
   ],
   "bugs": {
-    "web": "https://github.com/FireMario211/Murder-Mystery-Bot/issues"
+    "web": "https://github.com/"
   },
   "dependencies": {
     "check-update-github": "0.0.4",
@@ -25,9 +24,9 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FireMario211/Murder-Mystery-Bot.git"
+    "url": "git+https://github.com/"
   },
-  "author": "FireMario211",
+  "author": "Epsilonson",
   "license": "Apache-2.0",
   "homepage": "https://github.com/FireMario211/Murder-Mystery-Bot#readme"
 }
